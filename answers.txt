@@ -1,9 +1,15 @@
-<<<<<<< HEAD
 Q1: Why might be consider using git?
 
 Answer: Version control
-=======
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be used in public health! Analyzing and collecting data about certain diseases can inform public health institutions on how to most effectively allocate resources.
->>>>>>> q2
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: rebase creates a new set of commits applied on top of the target branch, while merge creates a new merge commit that combines the changes from both branches
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Data analysis and statistics related coding skills
