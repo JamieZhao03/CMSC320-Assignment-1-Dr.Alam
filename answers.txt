@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q1: Why might be consider using git?
 
 Answer: Version control
+=======
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be used in public health! Analyzing and collecting data about certain diseases can inform public health institutions on how to most effectively allocate resources.
+>>>>>>> q2
